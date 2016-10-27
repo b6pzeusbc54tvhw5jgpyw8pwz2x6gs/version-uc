@@ -2,6 +2,7 @@
 
 
 # version-uc
+Many bump libraries need third party like grunt, grup or make commit automatically for only package.json's version change. version-uc only change package.json's version, and display this new version.
 
 ## Install
 
