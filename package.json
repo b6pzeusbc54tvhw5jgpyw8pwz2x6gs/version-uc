@@ -1,0 +1,29 @@
+{
+  "name": "version-uc",
+  "version": "0.1.0",
+  "description": "simple bump script for package.json",
+  "directories": {
+    "bin": "bin"
+  },
+  "bin": {
+    "version-uc": "bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/version-uc.git"
+  },
+  "keywords": [
+    "bump",
+    "version"
+  ],
+  "author": "Alfred UC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/version-uc/issues"
+  },
+  "homepage": "https://github.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/version-uc#readme"
+}
