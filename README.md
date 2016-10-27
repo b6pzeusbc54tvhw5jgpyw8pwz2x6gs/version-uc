@@ -11,7 +11,7 @@ $ npm install version-uc --save-dev
 
 ## Usage
 
-Add script-tag to use `node_modules/bin/version-uc`
+Add version scripts in your `package.json` as alias for `node_modules/bin/version-uc`
 ```
 {
   "scripts": {
