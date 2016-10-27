@@ -79,5 +79,5 @@ pJson.version = newVersion;
 
 fs.writeFileSync('./package.json', JSON.stringify( pJson, null, 2 ));
 
-console.log('new version is: ' + newVersion );
+console.log('new version is: v' + newVersion );
 

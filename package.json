@@ -1,6 +1,6 @@
 {
   "name": "version-uc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple bump script for package.json",
   "bin": {
     "version-uc": "./bin/version-uc"
