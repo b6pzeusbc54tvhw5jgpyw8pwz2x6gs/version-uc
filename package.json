@@ -1,12 +1,9 @@
 {
   "name": "version-uc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple bump script for package.json",
-  "directories": {
-    "bin": "bin"
-  },
   "bin": {
-    "version-uc": "bin/version-uc"
+    "version-uc": "./bin/version-uc"
   },
   "main": "index.js",
   "scripts": {
