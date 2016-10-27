@@ -1,6 +1,6 @@
 {
   "name": "version-uc",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "simple bump script for package.json",
   "directories": {
     "bin": "bin"
